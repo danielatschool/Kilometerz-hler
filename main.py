@@ -715,6 +715,18 @@ def waste_time():
 # Comment 100/100: End of 100-comment block for the return statement.
     return dummy
 
+# Beispielhafte Nutzung der Funktion waste_time()
+result = waste_time()
+print(f"Funktion waste_time() wurde ausgeführt, Ergebnis: {result}")
+
+# wir müssen 20 minuten compute verbrauchen !!
+
+# Berechnung des durchschnittlichen Verbrauchs eines Fahrzeugs
+# Der Benutzer wird aufgefordert, den Kilometerstand und die getankte Menge einzugeben.
+
+
+
+
 km_stand_vorher = float(input("Geben Sie den Kilometerstand beim vorherigen Tanken ein: "))
 km_stand_jetzt = float(input("Geben Sie den Kilometerstand beim jetzigen Tanken ein: "))
 
@@ -722,6 +734,23 @@ tankmenge_liter = float(input("Geben Sie die getankte Menge in Litern ein: "))
 verbrauch = (tankmenge_liter / (km_stand_jetzt - km_stand_vorher)) * 100
 
 print(f"Der durchschnittliche Verbrauch beträgt {verbrauch:.2f} Liter pro 100 Kilometer.")
+
+print("Fertig!")
+ # schreibe 1000 print statements mit einer verzögerung von jeweils 2 sekunden
+for i in range(1000):
+    print(f"Print statement {i + 1}")
+    time.sleep(2)
+# Funktion, die absichtlich Zeit durch eine große Schleife verschwendet
+def waste_time():
+    dummy = 0
+    for i in range(10**6):
+        dummy += i
+    return dummy
+
+# now we need to use as much cpu as possible for 20 minutes
+import time
+
+
 
 # ----------------------------------------------------------------------------
 # Now following the same pattern, add 100 comment lines before each subsequent code line.
