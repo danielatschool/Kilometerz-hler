@@ -101,6 +101,620 @@ import time
 # Comment 99/100: Second to last detailed comment on this line.
 # Comment 100/100: Final comment line for the import statement.
 
+
+
+# Comment 1/100: This comment provides preliminary context for the following comment line.
+# Comment 2/100: It explains that we are beginning a section with a comment line.
+# Comment 3/100: This is part of the instructional verbose commenting.
+# Comment 4/100: The comment style is intended for educational purposes.
+# Comment 5/100: Each comment reinforces understanding of the code.
+# Comment 6/100: Detailed comments can aid code comprehension.
+# Comment 7/100: This is the start of a 100-line comment block.
+# Comment 8/100: The block will precede the first code line.
+# Comment 9/100: We ensure every aspect is described.
+# Comment 10/100: The comments here are systematic.
+# Comment 11/100: Each comment line is numbered sequentially.
+# Comment 12/100: This improves readability and traceability.
+# Comment 13/100: The goal is to document the code in fine detail.
+# Comment 14/100: Such detailed commenting may be overkill in production.
+# Comment 15/100: However, for learning it can be beneficial.
+# Comment 16/100: This line serves as an annotation marker.
+# Comment 17/100: The commentary explains the code's structure.
+# Comment 18/100: Each comment is deliberately crafted.
+# Comment 19/100: The style remains consistent throughout.
+# Comment 20/100: This is the twentieth explanatory comment.
+# Comment 21/100: Comment lines help in understanding code context.
+# Comment 22/100: They also serve as in-line documentation.
+# Comment 23/100: This detailed annotation is intentionally verbose.
+# Comment 24/100: The comments describe what the line below does.
+# Comment 25/100: They enhance clarity on code intent.
+# Comment 26/100: The approach is methodical and structured.
+# Comment 27/100: This level of detail outlines minor aspects of code.
+# Comment 28/100: The comment block precedes a comment code line.
+# Comment 29/100: It ensures instructional clarity.
+# Comment 30/100: Each comment is self-contained.
+# Comment 31/100: The following line is a pre-existing comment.
+# Comment 32/100: The commentary emphasizes background information.
+# Comment 33/100: Consistency in style is maintained.
+# Comment 34/100: The formatting is clear and deliberate.
+# Comment 35/100: Every comment reiterates the purpose of the code.
+# Comment 36/100: Repetition helps reinforce learning.
+# Comment 37/100: This verbosity is an intentional educational design.
+# Comment 38/100: It shows how code and commentary can be combined.
+# Comment 39/100: The detailed comments are part of the instruction.
+# Comment 40/100: They explain the rationale behind code decisions.
+# Comment 41/100: This is the forty-first comment in the block.
+# Comment 42/100: Clear documentation is valued in coding.
+# Comment 43/100: Each commentary line plays its role.
+# Comment 44/100: The structure of the comment block is planned.
+# Comment 45/100: The text flowing in the comments is descriptive.
+# Comment 46/100: Detailed explanation ensures no step is omitted.
+# Comment 47/100: The reader can follow the logic with ease.
+# Comment 48/100: Each comment builds upon the previous one.
+# Comment 49/100: The block is comprehensive.
+# Comment 50/100: We're at the midpoint of the comment block.
+# Comment 51/100: Detailed commenting can sometimes be redundant.
+# Comment 52/100: However, this exercise emphasizes every detail.
+# Comment 53/100: The code below relies on such detailed notes.
+# Comment 54/100: Each number in the comment marks its order.
+# Comment 55/100: This reinforces sequential clarity.
+# Comment 56/100: The block continues with more detail.
+# Comment 57/100: The comments are consistent in format.
+# Comment 58/100: Pedagogical purposes drive this verbosity.
+# Comment 59/100: More context is given in each comment.
+# Comment 60/100: This is the sixtieth comment in this block.
+# Comment 61/100: The intent is to clarify every nuance.
+# Comment 62/100: Such explanation leaves little to interpretation.
+# Comment 63/100: The number in each comment line matters.
+# Comment 64/100: They highlight the order of explanation.
+# Comment 65/100: Each comment line is crafted with care.
+# Comment 66/100: The design is uniform and methodical.
+# Comment 67/100: This level of detail is uncommon in standard code.
+# Comment 68/100: It is used here solely for demonstration.
+# Comment 69/100: The instructional nature is evident.
+# Comment 70/100: The comments set a learning example.
+# Comment 71/100: Every detail is spelled out explicitly.
+# Comment 72/100: Redundancy here is intentional.
+# Comment 73/100: Detailed instructions are often necessary.
+# Comment 74/100: This approach aids novice programmers.
+# Comment 75/100: The structured numbering helps navigation.
+# Comment 76/100: The instructional commentary is exhaustive.
+# Comment 77/100: Each line of comment fortifies code understanding.
+# Comment 78/100: The text is clear and systematic.
+# Comment 79/100: Every aspect of the code is highlighted.
+# Comment 80/100: These comments prepare the reader for the line below.
+# Comment 81/100: Attention to detail is key in technical documentation.
+# Comment 82/100: This is an example of extensive commenting.
+# Comment 83/100: The educational format is evident.
+# Comment 84/100: Readers are guided through the code step-by-step.
+# Comment 85/100: Clarity is maintained in each comment.
+# Comment 86/100: The detailed style minimizes ambiguity.
+# Comment 87/100: Sequential numbering is followed without error.
+# Comment 88/100: The block ensures thorough documentation.
+# Comment 89/100: Each comment gives insight into the code’s purpose.
+# Comment 90/100: This is the ninetieth explanatory comment.
+# Comment 91/100: The comments are designed for maximum clarity.
+# Comment 92/100: They describe the following code line comprehensively.
+# Comment 93/100: Each comment line supports the overall explanation.
+# Comment 94/100: The style is repetitive to reinforce key points.
+# Comment 95/100: Detailed annotations are provided line by line.
+# Comment 96/100: Every comment plays a part in demonstration.
+# Comment 97/100: The penultimate comment continues the precedent.
+# Comment 98/100: Nearing the end of this comment block.
+# Comment 99/100: Just one more comment before the final line.
+# Comment 100/100: End of 100-comment block for the preceding comment note.
+# we need a lot of variables which do shit in the backgreound so the tasks takes 20 minutes or smth
+
+# Comment 1/100: This comment marks the beginning of the function definition block.
+# Comment 2/100: It provides context for the upcoming function declaration.
+# Comment 3/100: The function is intended to simulate a heavy processing task.
+# Comment 4/100: Detailed commenting continues for this code line.
+# Comment 5/100: The comments prepare the reader for the function signature.
+# Comment 6/100: Consistency in documentation is maintained.
+# Comment 7/100: Every code line is preceded by a detailed comment block.
+# Comment 8/100: The teaching method emphasizes each step.
+# Comment 9/100: This comment block precedes a function definition.
+# Comment 10/100: It explains that the following block of code defines a function.
+# Comment 11/100: The function is designed for time-delay simulation.
+# Comment 12/100: Detailed commentary helps understand the function’s purpose.
+# Comment 13/100: This block targets the function declaration.
+# Comment 14/100: It ensures no step is left unexplained.
+# Comment 15/100: The comments are thorough to guide new programmers.
+# Comment 16/100: Every detail is spelled out explicitly.
+# Comment 17/100: The function name is indicative of its purpose.
+# Comment 18/100: The naming follows a semantic convention.
+# Comment 19/100: Functions are defined using the def keyword.
+# Comment 20/100: This is a common Python pattern for defining functions.
+# Comment 21/100: The comments detail each aspect of the function signature.
+# Comment 22/100: Line-by-line explanation is provided here.
+# Comment 23/100: The educational emphasis is maintained throughout.
+# Comment 24/100: Detailed instructions continue for clarity.
+# Comment 25/100: The function design is simple and demonstrative.
+# Comment 26/100: Each comment reinforces the purpose of the code.
+# Comment 27/100: This block precisely elaborates on the upcoming code.
+# Comment 28/100: The commentary serves as a preface to the function.
+# Comment 29/100: Every detail is purposefully explained.
+# Comment 30/100: The block is methodically numbered.
+# Comment 31/100: The function waste_time() is set to perform heavy calculations.
+# Comment 32/100: This naming convention indicates a delay mechanism.
+# Comment 33/100: The comments here focus on function setup.
+# Comment 34/100: They outline the function's intended workload.
+# Comment 35/100: The instructional method is consistent across code.
+# Comment 36/100: Every facet of the code is described.
+# Comment 37/100: The comments help the reader anticipate the function’s behavior.
+# Comment 38/100: The function will simulate a prolonged operation.
+# Comment 39/100: Such design is useful for demonstration.
+# Comment 40/100: Each comment explains the function declaration clearly.
+# Comment 41/100: The documentation is exhaustive for learning.
+# Comment 42/100: The comments add context before the code executes.
+# Comment 43/100: This helps in gradually building understanding.
+# Comment 44/100: Every aspect of the function's purpose is outlined.
+# Comment 45/100: The style remains verbose and deliberate.
+# Comment 46/100: The comments support a step-by-step educational narrative.
+# Comment 47/100: Each sequential number aids tracking the commentary.
+# Comment 48/100: The comment block is complete and thorough.
+# Comment 49/100: Detailed instruction is important in this exercise.
+# Comment 50/100: We are halfway through the comment block for the function.
+# Comment 51/100: Each comment reinforces the instruction's intent.
+# Comment 52/100: The comments are designed to be clear and comprehensive.
+# Comment 53/100: They introduce the function without ambiguity.
+# Comment 54/100: Detailed annotations help clarify code decisions.
+# Comment 55/100: The educational technique is to elaborate every action.
+# Comment 56/100: The comments prepare beginners for complex code.
+# Comment 57/100: They improve understanding of the function definition.
+# Comment 58/100: The purpose of this function is explained step by step.
+# Comment 59/100: Consistent verbose commentary characterizes this block.
+# Comment 60/100: The comments explain the significance of the function.
+# Comment 61/100: Each line is written to provide transparent documentation.
+# Comment 62/100: The block precedes the actual code line.
+# Comment 63/100: The sequence is carefully maintained.
+# Comment 64/100: Detailed comments are favorable for instructional purposes.
+# Comment 65/100: They help break down the structure of the function.
+# Comment 66/100: Each code element is introduced with clarity.
+# Comment 67/100: The detailed block avoids any ambiguity.
+# Comment 68/100: This sets the stage for what comes next.
+# Comment 69/100: Every comment line adds valuable context.
+# Comment 70/100: The systematic approach is designed for educational clarity.
+# Comment 71/100: Each detail about the function is specified.
+# Comment 72/100: The function is clearly introduced with the following line.
+# Comment 73/100: The block ensures the reader is well prepared.
+# Comment 74/100: Detailed explanation supports the code structure.
+# Comment 75/100: This commentary uses a step-by-step approach.
+# Comment 76/100: Every comment demonstrates an aspect of function definition.
+# Comment 77/100: Clear documentation facilitates better learning.
+# Comment 78/100: The verbose style is maintained deliberately.
+# Comment 79/100: Each comment provides an insight into the code.
+# Comment 80/100: The commentary helps mitigate potential confusion.
+# Comment 81/100: Detailed notes are made before the function declaration.
+# Comment 82/100: The consistent style reinforces learning standards.
+# Comment 83/100: This is an example of comprehensive inline documentation.
+# Comment 84/100: The instructional style is thorough and detailed.
+# Comment 85/100: Each comment line contributes to overall clarity.
+# Comment 86/100: The block is complete and ready for the code.
+# Comment 87/100: Detailed instructions end with high clarity.
+# Comment 88/100: The block has followed the sequential numbering.
+# Comment 89/100: Every aspect of the function setup is prepared.
+# Comment 90/100: This comment line emphasizes the end of the explanation.
+# Comment 91/100: The documentation is nearly complete.
+# Comment 92/100: The sequence ensures absolute clarity.
+# Comment 93/100: Each comment marker informs the code context.
+# Comment 94/100: Detailed instructions continue to ensure understanding.
+# Comment 95/100: The function declaration is well introduced.
+# Comment 96/100: The commentary wraps up details before the code line.
+# Comment 97/100: The instructional block is nearly complete.
+# Comment 98/100: Penultimate comment for the function definition section.
+# Comment 99/100: Almost at the end of this educational block.
+# Comment 100/100: End of 100-comment block before the function definition.
+def waste_time():
+
+# Comment 1/100: This comment block explains the initialization of the variable dummy.
+# Comment 2/100: The variable dummy starts with a specific integer value.
+# Comment 3/100: Initialization is a crucial step in the function.
+# Comment 4/100: Every variable initialization is detailed for clarity.
+# Comment 5/100: The value 209202 is chosen arbitrarily.
+# Comment 6/100: It acts as a starting point for computation.
+# Comment 7/100: Detailed commenting follows prior to the assignment.
+# Comment 8/100: This inline documentation emphasizes the variable's purpose.
+# Comment 9/100: Variables are fundamental in every computation.
+# Comment 10/100: The variable is assigned before the loop starts.
+# Comment 11/100: This prepares the accumulation process.
+# Comment 12/100: Initialization is clearly identified here.
+# Comment 13/100: Every assignment is documented in detail.
+# Comment 14/100: The number starts the computation with significance.
+# Comment 15/100: Understanding variable initialization aids in debugging.
+# Comment 16/100: The commentary prepares the reader for iterative processing.
+# Comment 17/100: Variables define the state of the function.
+# Comment 18/100: The initial value is crucial for later computations.
+# Comment 19/100: Clarity in these steps is mandatory for instructive code.
+# Comment 20/100: Detailed instructions ensure no steps are overlooked.
+# Comment 21/100: The commentary provides insight into the assignment.
+# Comment 22/100: Each variable is deliberately defined.
+# Comment 23/100: The initialization step is documented extensively.
+# Comment 24/100: It sets the stage for the computational loop.
+# Comment 25/100: Understanding this value is important for the function’s math.
+# Comment 26/100: Detailed commentary bridges the code segments.
+# Comment 27/100: Variables are then used in the subsequent loop.
+# Comment 28/100: The assigned value is part of the function's logic.
+# Comment 29/100: The initialization is a preamble to iterative computation.
+# Comment 30/100: Annotating this step ensures full comprehension.
+# Comment 31/100: The detailed comments precede the critical assignment operation.
+# Comment 32/100: They explain the rationale behind the chosen number.
+# Comment 33/100: Each number in the code is given a complete explanation.
+# Comment 34/100: The commentary helps connect the function’s parts.
+# Comment 35/100: This initialization is essential for waste_time() function.
+# Comment 36/100: The block is fully descriptive.
+# Comment 37/100: Every computation begins with an initial value.
+# Comment 38/100: The details here reinforce that concept.
+# Comment 39/100: The variable dummy is clearly introduced.
+# Comment 40/100: Such detailed explanation aids programming novices.
+# Comment 41/100: Variable initialization is non-trivial when learning.
+# Comment 42/100: Every aspect of the variable's role is documented.
+# Comment 43/100: The code demonstrates a clear assignment.
+# Comment 44/100: This sets up the function for later operations.
+# Comment 45/100: The commentary is methodical and explanatory.
+# Comment 46/100: Every assignment in code is critical.
+# Comment 47/100: The instructional comments highlight the reason.
+# Comment 48/100: Each variable carries significance in computation.
+# Comment 49/100: The approach shown is both instructional and precise.
+# Comment 50/100: We are halfway through the variable initialization comments.
+# Comment 51/100: The detailed sequence continues unchanged.
+# Comment 52/100: Every number is explained thoroughly.
+# Comment 53/100: This level of documentation aids in understanding code flow.
+# Comment 54/100: Variable initial values are critical for loops.
+# Comment 55/100: The educational style remains consistent.
+# Comment 56/100: This comment line ensures detailed explanation.
+# Comment 57/100: The number 209202 is explicitly noted.
+# Comment 58/100: The commentary clarifies its arbitrary nature.
+# Comment 59/100: Every detail of the assignment is annotated.
+# Comment 60/100: The explanation bridges the initialization and the loop.
+# Comment 61/100: Clarity in this assignment prevents future errors.
+# Comment 62/100: The comments assure that the value is set properly.
+# Comment 63/100: Each part of the code receives full explanation.
+# Comment 64/100: This instructional detail is designed for learning.
+# Comment 65/100: The comments elaborate on the initial variable state.
+# Comment 66/100: Every step is documented for traceability.
+# Comment 67/100: The instructional commentary reinforces good practices.
+# Comment 68/100: The initialization is pivotal for the function’s logic.
+# Comment 69/100: Detailed explanation continues seamlessly.
+# Comment 70/100: Every code initialization gets extensive commentary.
+# Comment 71/100: The number is chosen to simulate background processing.
+# Comment 72/100: The commentary explains the function’s context.
+# Comment 73/100: Detailed documentation is key for novice developers.
+# Comment 74/100: Each step in the function is given priority.
+# Comment 75/100: The initialization is well explained in detail.
+# Comment 76/100: Such verbosity ensures comprehensive understanding.
+# Comment 77/100: The comment block acts as a guide.
+# Comment 78/100: Every detail matters in instructional code.
+# Comment 79/100: The initialization is fully documented.
+# Comment 80/100: The number 209202 is an arbitrary starting value.
+# Comment 81/100: This detailed commentary adds clarity.
+# Comment 82/100: Each step is approached methodically.
+# Comment 83/100: The instruction continues to follow sequential order.
+# Comment 84/100: The details of variable assignment are made clear.
+# Comment 85/100: The commentary links the initialization to the loop.
+# Comment 86/100: Every number is annotated for precision.
+# Comment 87/100: The comments provide all relevant context.
+# Comment 88/100: Detailed explanation is maintained consistently.
+# Comment 89/100: Instructional commentary reinforces best practices.
+# Comment 90/100: The documentation platform is fully explanatory.
+# Comment 91/100: Each numerical assignment is noted and explained.
+# Comment 92/100: This thorough detailing leaves nothing ambiguous.
+# Comment 93/100: The block is consistent with previous comment sections.
+# Comment 94/100: Every detail is accounted for in the narrative.
+# Comment 95/100: The instructional method remains clear and precise.
+# Comment 96/100: Detailed steps are critical in explaining variable use.
+# Comment 97/100: The variable initialization is fully documented.
+# Comment 98/100: Penultimate comment for this block of assignment.
+# Comment 99/100: One final comment to ensure detailed clarity.
+# Comment 100/100: End of 100-comment block for the variable initialization.
+    dummy = 209202
+
+# Comment 1/100: This comment block introduces the for-loop.
+# Comment 2/100: It details the upcoming iteration structure.
+# Comment 3/100: The loop will iterate a million times.
+# Comment 4/100: Iteration is central to the function's time delay.
+# Comment 5/100: Each loop iteration is accounted for in execution.
+# Comment 6/100: Detailed commenting is provided for clarity.
+# Comment 7/100: The range function generates a sequence of numbers.
+# Comment 8/100: 10**6 creates one million iterations.
+# Comment 9/100: The loop structure demonstrates basic iteration.
+# Comment 10/100: Every iteration is critical in simulating delay.
+# Comment 11/100: The comments explain the purpose of the loop.
+# Comment 12/100: Iterative processes are vital in many algorithms.
+# Comment 13/100: The for-loop is a common Python construct.
+# Comment 14/100: Each iteration processes an integer value.
+# Comment 15/100: The loop is designed to execute a high number of times.
+# Comment 16/100: Detailed instructions ensure no step is missed.
+# Comment 17/100: This block prepares for a computational delay.
+# Comment 18/100: The loop simulates heavy CPU usage.
+# Comment 19/100: Iterating one million times guarantees a measurable delay.
+# Comment 20/100: Explanation of the loop structure is essential.
+# Comment 21/100: Every detail of the iteration is documented.
+# Comment 22/100: The comment block explains the starting point of iteration.
+# Comment 23/100: The numeric range is extensive for demonstration.
+# Comment 24/100: The comments emphasize attention to each iteration.
+# Comment 25/100: Iterative execution is broken down in detail.
+# Comment 26/100: The approach is methodical and rigorous.
+# Comment 27/100: Detailed commenting supports the educational intent.
+# Comment 28/100: The loop iterates over a large sequence of values.
+# Comment 29/100: Each value in the range contributes to the final result.
+# Comment 30/100: The detailed instructions follow sequentially.
+# Comment 31/100: The repetition of iterations is clearly highlighted.
+# Comment 32/100: The code line prepares the for-loop header.
+# Comment 33/100: Every iteration is significant in time-delay simulation.
+# Comment 34/100: The loop uses the range function for generating values.
+# Comment 35/100: Detailed commentary explains the mechanics of range().
+# Comment 36/100: The loop’s purpose is deliberately computational.
+# Comment 37/100: The code simulates delay via iterative processing.
+# Comment 38/100: Each iteration's significance is well documented.
+# Comment 39/100: The detailed comments underline the loop's structure.
+# Comment 40/100: The iteration count is explicitly detailed.
+# Comment 41/100: Clear documentation is provided for the loop.
+# Comment 42/100: The instructional narrative continues here.
+# Comment 43/100: Every iteration in the loop is annotated.
+# Comment 44/100: The block explains the loop's role in the function.
+# Comment 45/100: Repetition is emphasized for demonstrative purposes.
+# Comment 46/100: The commentary details the numerical iteration process.
+# Comment 47/100: Every aspect of the loop is explained methodically.
+# Comment 48/100: The function’s intention is to simulate heavy computation.
+# Comment 49/100: The iteration step is well described in this block.
+# Comment 50/100: We are halfway through the loop commentary block.
+# Comment 51/100: Detailed explanations maintain consistent educational value.
+# Comment 52/100: The iteration serves to delay the function execution.
+# Comment 53/100: Each numeric iteration is significant in the computation.
+# Comment 54/100: The commentary elaborates on the loop's mechanism.
+# Comment 55/100: The range of a million iterations is clearly highlighted.
+# Comment 56/100: Detailed commenting bridges code and concept.
+# Comment 57/100: The loop is designed for demonstrative heavy computation.
+# Comment 58/100: Every detail reinforces the iteration's purpose.
+# Comment 59/100: The expansive loop facilitates simulation of load.
+# Comment 60/100: Detailed comments ensure the loop's role is understood.
+# Comment 61/100: Iterative delay is a common technique in performance simulation.
+# Comment 62/100: The instructions are thorough before executing the loop.
+# Comment 63/100: The commentary clarifies the use of range(10**6).
+# Comment 64/100: Each step in iterating is annotated carefully.
+# Comment 65/100: The loop header is fully documented.
+# Comment 66/100: Instructional detail is provided for clarity.
+# Comment 67/100: Every iteration has a specific purpose in this simulation.
+# Comment 68/100: The detailed explanation derives the reason behind the loop.
+# Comment 69/100: The commentary reinforces the iteration count’s significance.
+# Comment 70/100: Clear and structured comments precede the loop.
+# Comment 71/100: Repetition in iteration is highlighted for emphasis.
+# Comment 72/100: The educational pattern persists in every line.
+# Comment 73/100: Each element of the loop is documented.
+# Comment 74/100: Detailed explanation continues without omission.
+# Comment 75/100: The iteration is described step-by-step in these comments.
+# Comment 76/100: Every step is explained to aid thorough understanding.
+# Comment 77/100: The loop is integral to the function's delay.
+# Comment 78/100: Detailed commentary bridges the loop with its purpose.
+# Comment 79/100: The instruction ensures every iteration is accounted for.
+# Comment 80/100: This explanation is comprehensive and methodical.
+# Comment 81/100: The iteration count is self-explanatory via detailed notes.
+# Comment 82/100: The loop serves as a heavy computational task.
+# Comment 83/100: Each step in the iteration is carefully annotated.
+# Comment 84/100: Detailed instructions fill every line before the loop.
+# Comment 85/100: The repetitive nature of the loop is clearly conveyed.
+# Comment 86/100: Every detail of the iteration structure is elaborated.
+# Comment 87/100: The commentary aims to leave no ambiguity.
+# Comment 88/100: Instructional detail is maintained throughout the block.
+# Comment 89/100: The iteration process is fully explained in this sequence.
+# Comment 90/100: Detailed notes articulate the loop's large iteration.
+# Comment 91/100: The code simulates heavy processing via repetition.
+# Comment 92/100: Each iteration's purpose is clearly outlined.
+# Comment 93/100: Methodical description supports the for-loop explanation.
+# Comment 94/100: The code line is fully prepared by detailed comments.
+# Comment 95/100: Every nuance of the loop is explained in a stepwise manner.
+# Comment 96/100: The commentary continues with detailed instructions.
+# Comment 97/100: The loop's exhaustive iteration is well documented.
+# Comment 98/100: Penultimate comment for the iteration block.
+# Comment 99/100: One more comment ensures all details are covered.
+# Comment 100/100: End of 100-comment block for the for-loop statement.
+    for i in range(10**6):
+
+# Comment 1/100: This comment block precedes the loop's body code.
+# Comment 2/100: It explains the addition operation inside the for-loop.
+# Comment 3/100: Each loop iteration performs an accumulation.
+# Comment 4/100: The operation adds the loop index to dummy.
+# Comment 5/100: Detailed commenting highlights this arithmetic operation.
+# Comment 6/100: The code performs an in-loop accumulation.
+# Comment 7/100: Every iteration modifies the dummy variable.
+# Comment 8/100: The detailed instruction emphasizes the in-loop process.
+# Comment 9/100: Addition in loops is a fundamental operation.
+# Comment 10/100: The comments clarify the purpose of this code line.
+# Comment 11/100: The shorthand operator += is used for addition.
+# Comment 12/100: It simplifies the accumulation process.
+# Comment 13/100: Detailed commentary explains the semantics of +=.
+# Comment 14/100: The operation is straightforward and concise.
+# Comment 15/100: Every step in the arithmetic process is annotated.
+# Comment 16/100: The addition aggregates the current index.
+# Comment 17/100: This contributes to the overall delay simulation.
+# Comment 18/100: The loop modifies the variable dummy iteratively.
+# Comment 19/100: Detailed commenting continues for arithmetic operations.
+# Comment 20/100: Each operation within the loop is significant.
+# Comment 21/100: The cumulative addition is clearly documented.
+# Comment 22/100: Instructional detail aids in the understanding of '+='.
+# Comment 23/100: The arithmetic process is essential for the function.
+# Comment 24/100: Every iteration adds a portion of the index value.
+# Comment 25/100: The operation is critical in simulating workload.
+# Comment 26/100: Detailed instructions ensure clarity in each step.
+# Comment 27/100: The code efficiently performs aggregation.
+# Comment 28/100: The commentary explains the computation's purpose.
+# Comment 29/100: This in-loop operation is annotated in detail.
+# Comment 30/100: Every arithmetic operation is highlighted here.
+# Comment 31/100: The operator '+=' indicates a cumulative sum.
+# Comment 32/100: Detailed comments are provided for each arithmetic step.
+# Comment 33/100: The operation is standard in Python loops.
+# Comment 34/100: The commentary ensures the intended function is understood.
+# Comment 35/100: Each addition operation contributes to the overall dummy value.
+# Comment 36/100: The detailed explanation links arithmetic and iteration.
+# Comment 37/100: Every iteration's addition is integral to the delay.
+# Comment 38/100: The comments maintain detailed educational documentation.
+# Comment 39/100: Repetitive arithmetic is explicitly explained.
+# Comment 40/100: Detailed commentary is given for the operator usage.
+# Comment 41/100: The code line succinctly expresses accumulation.
+# Comment 42/100: Each iteration increases the value of dummy.
+# Comment 43/100: Detailed instructions clarify this arithmetic process.
+# Comment 44/100: The addition operation is explained for clarity.
+# Comment 45/100: Each aspect of the accumulation is detailed.
+# Comment 46/100: The commentary reinforces the effect of in-loop addition.
+# Comment 47/100: '+=' is used to add and update in one statement.
+# Comment 48/100: Detailed explanation is provided about the addition.
+# Comment 49/100: Every loop iteration enhances the dummy variable's value.
+# Comment 50/100: We are halfway through the arithmetic commentary block.
+# Comment 51/100: Detailed instructions support each arithmetic operation.
+# Comment 52/100: The cumulative effect is critical in simulation.
+# Comment 53/100: Each iteration's arithmetic is documented.
+# Comment 54/100: The detailed breakdown helps in understanding the cumulative process.
+# Comment 55/100: '+=' operates as a shorthand for dummy = dummy + i.
+# Comment 56/100: The commentary explains the concept clearly.
+# Comment 57/100: The arithmetic operation is essential for the loop's purpose.
+# Comment 58/100: Every detail of the accumulation is annotated.
+# Comment 59/100: The comments provide clarity on the in-loop operation.
+# Comment 60/100: Each addition affects the dummy variable incrementally.
+# Comment 61/100: Detailed explanation follows the arithmetic step.
+# Comment 62/100: The accumulation contributes to the computational load.
+# Comment 63/100: Every iteration's addition is explicit in the code.
+# Comment 64/100: The comments explain the cumulative behavior in detail.
+# Comment 65/100: Arithmetic operations in loops are common in Python.
+# Comment 66/100: Detailed annotation is provided for pedagogical clarity.
+# Comment 67/100: The operation enhances the function's delay.
+# Comment 68/100: Every arithmetic step is documented thoroughly.
+# Comment 69/100: The accumulation process is key to the function's logic.
+# Comment 70/100: Each iteration's addition is clearly described.
+# Comment 71/100: The operation '+=' makes the code concise.
+# Comment 72/100: Detailed explanations link the arithmetic to the function's purpose.
+# Comment 73/100: The iterative addition is clearly highlighted.
+# Comment 74/100: Instructional commentary continues with arithmetic details.
+# Comment 75/100: The code succinctly expresses in-loop accumulation.
+# Comment 76/100: Detailed instructions elucidate the update mechanism.
+# Comment 77/100: Each arithmetic operation is traced through comments.
+# Comment 78/100: The cumulative process is thoroughly explained.
+# Comment 79/100: This detailed commentary supports learning the syntax.
+# Comment 80/100: Every addition operation is documented in detail.
+# Comment 81/100: Instructional clarity is maintained through repetitive explanations.
+# Comment 82/100: The function of '+=' is fully elaborated.
+# Comment 83/100: Each iteration adds a small increment to dummy.
+# Comment 84/100: Detailed comments underline the significance of cumulative arithmetic.
+# Comment 85/100: The code line is fundamental to the loop’s operation.
+# Comment 86/100: Every addition is significant to the delay simulation.
+# Comment 87/100: Detailed commentary ensures complete transparency.
+# Comment 88/100: The arithmetic update is methodically explained.
+# Comment 89/100: Every operation is intended to simulate heavy processing.
+# Comment 90/100: The instruction style remains consistent and detailed.
+# Comment 91/100: Each line of arithmetic is preceded by thorough commentary.
+# Comment 92/100: The cumulative addition is explicitly annotated.
+# Comment 93/100: Detailed explanation reinforces the in-loop operation.
+# Comment 94/100: Instructional notes follow the arithmetic expression.
+# Comment 95/100: Every detail of the addition is comprehensively detailed.
+# Comment 96/100: The commentary adds clarity to the update mechanism.
+# Comment 97/100: The detailed annotation continues for each arithmetic line.
+# Comment 98/100: Penultimate comment for the in-loop arithmetic operation.
+# Comment 99/100: One final comment before closing this block.
+# Comment 100/100: End of 100-comment block for the in-loop addition statement.
+        dummy += i
+
+# Comment 1/100: This comment block introduces the return statement.
+# Comment 2/100: It explains the purpose of returning a value from the function.
+# Comment 3/100: The return statement concludes the function waste_time().
+# Comment 4/100: Detailed commentary clarifies the function's output.
+# Comment 5/100: Returning a value is a standard practice in function design.
+# Comment 6/100: Each function should return a result to indicate completion.
+# Comment 7/100: The comment block gives context to the return statement.
+# Comment 8/100: Detailed explanation aids in understanding function exit.
+# Comment 9/100: Returning dummy shows the accumulation result.
+# Comment 10/100: Each step in the function is documented exhaustively.
+# Comment 11/100: The return value is essential to the function.
+# Comment 12/100: Detailed commentary outlines the purpose of the return.
+# Comment 13/100: Returning the computed value concludes the function.
+# Comment 14/100: The comments ensure the flow of the function is transparent.
+# Comment 15/100: Each function must end by returning a value.
+# Comment 16/100: This return statement passes the result back to the caller.
+# Comment 17/100: Detailed annotations improve code readability.
+# Comment 18/100: The function's output is explicitly stated.
+# Comment 19/100: Every execution path should conclude with a return.
+# Comment 20/100: The documentation reinforces this programming concept.
+# Comment 21/100: Detailed comment blocks support function termination.
+# Comment 22/100: Returning a value provides result transparency.
+# Comment 23/100: The comment block is aware of the function’s structure.
+# Comment 24/100: It reiterates the importance of function output.
+# Comment 25/100: This final block yields the function's accumulated result.
+# Comment 26/100: Detailed instructional comments pave the way for the return.
+# Comment 27/100: Every detail on function conclusion is explained.
+# Comment 28/100: The return statement is critical for the function's contract.
+# Comment 29/100: Detailed commentary describes the purpose of returning dummy.
+# Comment 30/100: Instructional details ensure the process is clear.
+# Comment 31/100: The function exit is well documented here.
+# Comment 32/100: Each step ensures that the function fulfills its role.
+# Comment 33/100: This detailed guidance is helpful for beginners.
+# Comment 34/100: The return value indicates successful function completion.
+# Comment 35/100: Detailed instructions support the programming paradigm.
+# Comment 36/100: The commentary connects the accumulation to the function's outcome.
+# Comment 37/100: Every detail is documented until the final return.
+# Comment 38/100: The return statement finalizes the function's task.
+# Comment 39/100: Detailed commentary bridges initialization, loop, and return.
+# Comment 40/100: The function is now complete with a clear return value.
+# Comment 41/100: Instructional clarity is maintained until the end.
+# Comment 42/100: Each return statement should be fully explained.
+# Comment 43/100: The code line returns the accumulated result stored in dummy.
+# Comment 44/100: Detailed annotation ensures that the result is understood.
+# Comment 45/100: The return value signifies the end of processing.
+# Comment 46/100: Every operation within the function is tied together here.
+# Comment 47/100: Detailed commentary precedes the final code action.
+# Comment 48/100: The function's complete operation is highlighted.
+# Comment 49/100: Returning dummy concludes the function's execution.
+# Comment 50/100: We are halfway through the final comment block.
+# Comment 51/100: Detailed instructions persist until the end of the function.
+# Comment 52/100: The return statement is essential for conveying output.
+# Comment 53/100: Each detail of function termination is elaborated.
+# Comment 54/100: The instructional narrative persists in the final step.
+# Comment 55/100: This return statement yields the final computed result.
+# Comment 56/100: Detailed commentary reinforces proper function closure.
+# Comment 57/100: Every operator and statement is fully documented.
+# Comment 58/100: The return informs the calling environment of the result.
+# Comment 59/100: Instructional notes detail every final operation.
+# Comment 60/100: The code completes its execution with a clear return.
+# Comment 61/100: Detailed commentary is provided for the function's end.
+# Comment 62/100: The return is annotated to clarify program flow.
+# Comment 63/100: Every detail concerning function termination is covered.
+# Comment 64/100: The commentary aids in understanding the function’s contract.
+# Comment 65/100: This return value is the final output from waste_time().
+# Comment 66/100: Detailed instructions ensure complete understanding.
+# Comment 67/100: The return statement is crucial for the function's interface.
+# Comment 68/100: Each instructional line reinforces the importance of return.
+# Comment 69/100: The final step in the function is meticulously explained.
+# Comment 70/100: Every aspect of function termination is highlighted.
+# Comment 71/100: The detailed commentary integrates the entire function.
+# Comment 72/100: It demonstrates proper function architecture.
+# Comment 73/100: Detailed explanations ensure that the role of return is clear.
+# Comment 74/100: Every final operation in the code is documented.
+# Comment 75/100: The return statement is the logical conclusion of waste_time().
+# Comment 76/100: Detailed comments enhance clarity of function outcomes.
+# Comment 77/100: The instructional style remains persistently descriptive.
+# Comment 78/100: Each step of function termination is annotated.
+# Comment 79/100: The return statement finalizes the computational task.
+# Comment 80/100: Detailed commentary prepares the reader for the function's end.
+# Comment 81/100: Every code line is preceded by exhaustive comments.
+# Comment 82/100: The teaching method is consistent until the final return.
+# Comment 83/100: Detailed explanation of function termination is provided.
+# Comment 84/100: The return statement is clearly documented.
+# Comment 85/100: Every detail regarding the computed result is clarified.
+# Comment 86/100: The commentary highlights the role of the returned variable.
+# Comment 87/100: Detailed instructions ensure complete closure of the function.
+# Comment 88/100: The final output is stressed through these annotations.
+# Comment 89/100: Every instructional comment relies on clarity and detail.
+# Comment 90/100: The return statement is a critical part of the function.
+# Comment 91/100: Detailed commentary reinforces the programming paradigm.
+# Comment 92/100: The function's output is unmistakably defined.
+# Comment 93/100: Every line of code is proceeded by detailed notes.
+# Comment 94/100: The commentary system remains verbose for instructional purposes.
+# Comment 95/100: This final block is as detailed as the previous ones.
+# Comment 96/100: Each instructional note continues the pedagogical pattern.
+# Comment 97/100: The return statement is well contextualized here.
+# Comment 98/100: Penultimate comment for the function's final operation.
+# Comment 99/100: One more comment ensures total clarity of the return.
+# Comment 100/100: End of 100-comment block for the return statement.
+    return dummy
+
 km_stand_vorher = float(input("Geben Sie den Kilometerstand beim vorherigen Tanken ein: "))
 km_stand_jetzt = float(input("Geben Sie den Kilometerstand beim jetzigen Tanken ein: "))
 
@@ -213,11 +827,6 @@ print(f"Der durchschnittliche Verbrauch beträgt {verbrauch:.2f} Liter pro 100 K
 # Comment 98/100: Next we move on to the code inside the function.
 # Comment 99/100: This detailed commentary serves learning purposes.
 # Comment 100/100: End of 100-comment block for the function definition.
-def waste_time():
-    dummy = 0
-    for i in range(10**6):
-        dummy += i
-    return dummy
 
 # ----------------------------------------------------------------------------
 # The same approach would be used before every other line such as input() calls and print().
